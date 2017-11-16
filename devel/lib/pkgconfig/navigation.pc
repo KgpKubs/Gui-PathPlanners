@@ -1,0 +1,8 @@
+prefix=/home/ashish/robocup/devel
+
+Name: navigation
+Description: Description of navigation
+Version: 0.0.0
+Cflags: -I/home/ashish/robocup/src/navigation/include
+Libs: -L/home/ashish/robocup/devel/lib -lnavigation
+Requires: roscpp rospy std_msgs

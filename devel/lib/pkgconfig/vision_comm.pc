@@ -1,0 +1,8 @@
+prefix=/home/ashish/robocup/devel
+
+Name: vision_comm
+Description: Description of vision_comm
+Version: 0.0.0
+Cflags: -I/home/ashish/robocup/src/vision_comm/include
+Libs: -L/home/ashish/robocup/devel/lib -lvision_comm
+Requires: roscpp rospy std_msgs

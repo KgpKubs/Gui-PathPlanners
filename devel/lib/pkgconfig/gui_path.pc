@@ -1,0 +1,8 @@
+prefix=/home/ashish/robocup/devel
+
+Name: gui_path
+Description: Description of gui_path
+Version: 0.0.0
+Cflags: -I/home/ashish/robocup/devel/include
+Libs: -L/home/ashish/robocup/devel/lib 
+Requires: 

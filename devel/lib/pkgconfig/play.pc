@@ -1,0 +1,8 @@
+prefix=/home/ashish/robocup/devel
+
+Name: play
+Description: Description of play
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ashish/robocup/devel/lib 
+Requires: 

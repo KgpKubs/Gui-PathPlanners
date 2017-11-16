@@ -1,0 +1,8 @@
+prefix=/home/ashish/robocup/devel
+
+Name: skills
+Description: Description of skills
+Version: 0.0.0
+Cflags: -I/home/ashish/robocup/src/skills/include
+Libs: -L/home/ashish/robocup/devel/lib -lskills
+Requires: roscpp rospy std_msgs krssg_ssl_msgs
