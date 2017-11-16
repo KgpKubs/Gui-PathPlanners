@@ -20,4 +20,15 @@ It helps anyone see paths drawn from different path planners and also tune the p
 7. Go to `src` folder of gui_path and run `python gui_path.py`
 
 ## Demo Screenshot
-![screenshot](planner.png "Demo for this gui")
+![screenshot](planner1.png "Demo for this gui")
+
+You will get this window.
+
+### Working further
+1. select any rrt from `rrt menu` in top left corner (for now only rrt-connect has been implemented)
+2. select start point and end point by either clicking on window or by writing coordinates on text boxes
+3. give different parameters(max_iter,bias,step_size)
+4. click on `send data` then `update path`
+5. you are done. you can repeat the steps(2 to 4) with changing paramters and input.
+## planner screenshot
+![screenshot](planne1.png "Demo for this planner")
