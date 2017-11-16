@@ -31,4 +31,4 @@ You will get this window.
 4. click on `send data` then `update path`
 5. you are done. you can repeat the steps(2 to 4) with changing paramters and input.
 ## planner screenshot
-![screenshot](planne1.png "Demo for this planner")
+![screenshot1](planne1.png "Demo for this planner")
