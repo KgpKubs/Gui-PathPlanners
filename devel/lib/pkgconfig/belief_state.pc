@@ -1,8 +1,0 @@
-prefix=/home/ashish/robocup/devel
-
-Name: belief_state
-Description: Description of belief_state
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/ashish/robocup/devel/lib 
-Requires: 

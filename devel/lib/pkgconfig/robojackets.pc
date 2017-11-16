@@ -1,8 +1,0 @@
-prefix=/home/ashish/robocup/devel
-
-Name: robojackets
-Description: Description of robojackets
-Version: 0.0.0
-Cflags: -I/home/ashish/robocup/src/robojackets/include -I/usr/include/eigen3 -I/usr/include
-Libs: -L/home/ashish/robocup/devel/lib -lrobojackets -l:/usr/lib/x86_64-linux-gnu/libboost_system.so
-Requires: roscpp rospy std_msgs
